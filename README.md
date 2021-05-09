@@ -1,11 +1,8 @@
 ## Olá, eu sou Felipe Gabriel. 🤞
 <br>
-<a href="https://www.instagram.com/fgabriel_s/" target="_blank">
-  <img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409946.svg?token=exp=1617218478~hmac=f4eaf459eb04617602c702c2c8493586" align="center" height="30px" width="40px" style="max-width=100%">
-</a>
-<a href="https://www.youtube.com/c/FelipeGabriell/videos" target="_blank">
-  <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1617218852~hmac=05514bdeaf972d70ecb7448bd24e3142" align="center" height="30px" width="40px" style="max-width=100%">
-</a>
+<a href="https://www.instagram.com/fgabriel_s/" target="_blank"> Meu Instagram </a>
+<br>
+<a href="https://www.youtube.com/c/FelipeGabriell/videos" target="_blank"> Meu Canal no YouTube </a>
 <br>
 
 ### Algumas informações sobre mim: 
