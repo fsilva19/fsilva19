@@ -9,7 +9,7 @@
 
 * Programo desde 2017;
 * Entrei no curso Bc&t em 2020;
-* Me identifico mais com Programação Web.
+* Me identifico mais com Front-End.
 * Tenho um Canal no Youtube 😉
 
 
