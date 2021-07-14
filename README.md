@@ -1,5 +1,7 @@
 ## Olá, eu sou Felipe Gabriel. 🤞
 <br>
+<h1><a href ="https://github.com/fsilva19/MeuCurriculo" target="_blank"> Meu Currículo </a></h1>
+<br>
 <a href="https://www.instagram.com/fgabriel_s/" target="_blank"> Meu Instagram </a>
 <br>
 <a href="https://www.youtube.com/c/FelipeGabriell/videos" target="_blank"> Meu Canal no YouTube </a>
