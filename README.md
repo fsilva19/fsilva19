@@ -1,18 +1,23 @@
-## Olá, eu sou Felipe Gabriel. 🤞
+## Olá, sou Felipe Gabriel. 🤞
 <br>
 <h1><a href ="https://github.com/fsilva19/MeuCurriculo" target="_blank"> Meu Currículo </a></h1>
 <br>
-<a href="https://www.instagram.com/fgabriel_s/" target="_blank"> Meu Instagram </a>
-<br>
-<a href="https://www.youtube.com/c/FelipeGabriell/videos" target="_blank"> Meu Canal no YouTube </a>
+<a href="https://www.instagram.com/felipegabriel.bs/" target="_blank"> Meu Instagram </a>
 <br>
 
 ### Algumas informações sobre mim: 
 
-* Programo desde 2017;
-* Entrei no curso Bc&t em 2020;
-* Me identifico mais com Front-End.
-* Tenho um Canal no Youtube 😉
+<ol>
+  <li>Programo desde 2017;</li>
+  <li>Entrei no curso C&T da UFRN em 2020;</li>
+  <li>Algumas tecnologias que mais uso:</li>
+  <ul>
+    <li>C++</li>
+    <li>Python</li>
+    <li>MySql</li>
+  </ul>
+</ol>
+
 
 
 
