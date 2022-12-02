@@ -21,7 +21,7 @@
 
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsilva19&layout=compact)](https://github.com/fsilva19/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsilva19&langs_count=9)](https://github.com/fsilva19/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsilva19&layout=compact)](https://github.com/fsilva19/github-readme-stats)
 
 ![Snake animation](https://github.com/fsilva19/fsilva19/blob/output/github-contribution-grid-snake.svg)
+
