@@ -2,19 +2,22 @@
 ## <a href ="https://github.com/fsilva19/MeuCurriculo" target="_blank"> Meu Currículo </a>
 <br>
 <a href="https://www.instagram.com/felipegabriel.bs/" target="_blank"> Meu Instagram </a>
-<br>
 
+### Link para alguns dos meus projetos:
 <ol>
-  Programo desde 2017;
-  <li>Entrei no curso C&T da UFRN em 2020;</li>
-  <li>Algumas tecnologias que mais uso:</li>
-  Alguns dos meus projetos:
-  li
-  <ul>
-    <li>C++</li>
-    <li>Python</li>
-    <li>MySql</li>
-  </ul>
+  <li>Python (Django):</li>
+    <ul>
+      <li><a href="https://github.com/fsilva19/Projeto_To-Do" target="_blank">To-Do List</a></li>
+    </ul>
+  <li>HTML, CSS e JavaScript:</li>
+    <ul>
+      <li><a href="https://github.com/fsilva19/Projeto_Cronometro" target="_blank">Cronômetro e Temporizador</a></li>
+      <li><a href="https://github.com/fsilva19/MeuSiteV2" target="_blank">Meu Site Pessoal</a></li>
+    </ul>
+  <li>C++:</li>
+    <ul>
+      <li><a href="https://github.com/fsilva19/Poly" target="_blank">Calculadora de Polinômios</a></li>
+    </ul>
 </ol>
 
 
