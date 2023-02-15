@@ -1,16 +1,15 @@
-## Olá, sou Felipe Gabriel. 🤞
-<br>
-<h1><a href ="https://github.com/fsilva19/MeuCurriculo" target="_blank"> Meu Currículo </a></h1>
+# Olá, sou Felipe Gabriel!
+## <a href ="https://github.com/fsilva19/MeuCurriculo" target="_blank"> Meu Currículo </a>
 <br>
 <a href="https://www.instagram.com/felipegabriel.bs/" target="_blank"> Meu Instagram </a>
 <br>
 
-### Algumas informações sobre mim: 
-
 <ol>
-  <li>Programo desde 2017;</li>
+  Programo desde 2017;
   <li>Entrei no curso C&T da UFRN em 2020;</li>
   <li>Algumas tecnologias que mais uso:</li>
+  Alguns dos meus projetos:
+  li
   <ul>
     <li>C++</li>
     <li>Python</li>
