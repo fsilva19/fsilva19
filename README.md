@@ -1,13 +1,15 @@
 # Olá, sou Felipe Gabriel!
 ## <a href ="https://github.com/fsilva19/MeuCurriculo" target="_blank"> Meu Currículo </a>
-<br>
+
 <a href="https://www.instagram.com/felipegabriel.bs/" target="_blank"> Meu Instagram </a>
+
+<a href="https://www.linkedin.com/in/felipe-gabriel-1903/" target="_blank"> Meu LinkedIn </a>
 
 ### Link para alguns dos meus projetos:
 <ol>
-  <li>Python (Django):</li>
+  <li>Python:</li>
     <ul>
-      <li><a href="https://github.com/fsilva19/Projeto_To-Do" target="_blank">To-Do List</a></li>
+      <li><a href="https://github.com/fsilva19/Projeto_To-Do" target="_blank">To-Do List (Django)</a></li>
     </ul>
   <li>HTML, CSS e JavaScript:</li>
     <ul>
