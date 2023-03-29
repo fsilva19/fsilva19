@@ -22,3 +22,4 @@
     </ul>
 </ol>
 
+![snake gif](https://github.com/fsilva19/fsilva19/blob/output/github-contribution-grid-snake.gif)
