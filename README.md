@@ -7,15 +7,17 @@
 <a href="https://www.linkedin.com/in/felipe-gabriel-1903/" target="_blank"> Meu LinkedIn </a>
 ## Tecnologias que eu domino:
 
-<p size=20>Tecnologias</p>
-
 <style>
-mark{
-    color:red;
+.heading1 {
+    color: red;
+    font-weight:700;
+    font-size: 35px;
 }
 </style>
 
-<mark>what is DataBase</mark>
+# Markdown heading styles {#identifier .heading1}
+    
+<p style="font-size:20px">Tecnologias</p>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=flat&logo=HTML5&logoColor=f85149&labelColor=242424&color=242424&logoWidth=40&height=30)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=flat&logo=css3&logoColor=1572B6&labelColor=242424&color=242424&logoWidth=40)&nbsp;
