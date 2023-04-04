@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8BE8FB&height=120&section=header"/>
+
 <!--NOME/SEJA BEM VINDO-->
 <div align="center">
   
@@ -66,3 +68,5 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fsilva19&bg_color=0f0f0f&color=5274ff&line=c7c7c7&point=5274ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8BE8FB&height=120&section=footer"/>
