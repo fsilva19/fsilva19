@@ -31,6 +31,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=flat&logo=HTML5&logoColor=FFFFFF&labelColor=f85149&color=f85149&logoWidth=40&height=30)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=flat&logo=css3&logoColor=FFFFFF&labelColor=1572B6&color=1572B6&logoWidth=30)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1E&color=%23F7DF1E&logoWidth=30)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=c%2B%2B&logoColor=ffffff&labelColor=%2300599C&color=%2300599C&logoWidth=30)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54&labelColor=2253DB&color=2253DB&logoWidth=30)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-%23F05033.svg?style=flat&logo=git&logoColor=000000&labelColor=%23F05033&color=%23F05033&logoWidth=30&buttonWidth=30)&nbsp;
   
