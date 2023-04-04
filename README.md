@@ -1,3 +1,5 @@
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3AC5C6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Felipe+Gabriel.;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ## Tecnologias que eu domino:
@@ -13,9 +15,11 @@
 
 ## <a href ="https://github.com/fsilva19/MeuCurriculo" target="_blank"> Meu Currículo </a>
 
-<a href="https://www.instagram.com/felipegabriel.bs/" target="_blank"> Meu Instagram </a>
+<div align="center"> 
+<a href="https://instagram.com/felipegabriel.bs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=E22D0E" style="height:25px"></a>
+<a href="https://www.linkedin.com/in/felipe-gabriel-1903/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" style="height:25px" target="_blank"></a> 
+</div>
 
-<a href="https://www.linkedin.com/in/felipe-gabriel-1903/" target="_blank"> Meu LinkedIn </a>
 
 <div align="center">
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsilva19&layout=compact&hide_border=true&title_color=9AC0E9&text_color=9AC0E9&bg_color=0f0f0f"/>
