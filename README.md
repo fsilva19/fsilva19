@@ -21,7 +21,7 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsilva19&layout=compact&hide_border=true&title_color=9AC0E9&text_color=9AC0E9&bg_color=0f0f0f"/>
 </div>
 
-### Link para alguns dos meus projetos:
+### Repositórios dos meus projetos:
 <ol>
   <li>Python:</li>
     <ul>
@@ -40,12 +40,12 @@
 
 <div align="center">
   
-![snake gif](https://github.com/fsilva19/fsilva19/blob/output/github-contribution-grid-snake.gif?bg_color=0f0f0f)
+![snake gif](https://github.com/fsilva19/fsilva19/blob/output/github-contribution-grid-snake.gif)
   
 </div>
 
-<p align="center">
+<div align="center">
     
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fsilva19&bg_color=0f0f0f&color=5274ff&line=c7c7c7&point=5274ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</p>
+</div>
