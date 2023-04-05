@@ -8,7 +8,7 @@
   </div>
 <!--REDES SOCIAIS-->
 <div align="center"> 
-<img src="https://img.shields.io/badge/-ONDE ME ENCONTRAR:-%23E4405F?style=flat&logo=&logoColor=white&color=FFDC80" style="height:25px">
+<img src="https://img.shields.io/badge/-ONDE ME ENCONTRAR:-%23E4405F?style=flat&logo=&logoColor=white&color=33ABAC" style="height:25px">
 
 <a href="https://github.com/fsilva19/MeuCurriculo" target="_blank"><img src="https://img.shields.io/badge/-Meu currículo digital-%23E4405F?style=flat&logo=SquareEnix&logoColor=white&color=833AB4" style="height:25px"></a>
 <a href="https://instagram.com/felipegabriel.bs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=E22D0E" style="height:25px"></a>
