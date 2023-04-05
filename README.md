@@ -46,6 +46,7 @@
   <li>Python:</li>
     <ul>
       <li><a href="https://github.com/fsilva19/Projeto_To-Do" target="_blank">To-Do List (Django)</a></li>
+      <li><a href="https://github.com/fsilva19/FormularioDjango" target="_blank">Formulário simples (Django)</a></li>
     </ul>
   <li>HTML, CSS e JavaScript:</li>
     <ul>
