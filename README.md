@@ -10,7 +10,7 @@
 <div align="center"> 
 <img src="https://img.shields.io/badge/-ONDE ME ENCONTRAR:-%23E4405F?style=flat&logo=&logoColor=white&color=33ABAC" style="height:25px">
 
-<a href="https://github.com/fsilva19/MeuCurriculo" target="_blank"><img src="https://img.shields.io/badge/-Meu currículo digital-%23E4405F?style=flat&logo=SquareEnix&logoColor=white&color=833AB4" style="height:25px"></a>
+<a href="CV_FelipeGabriel.pdf" target="_blank"><img src="https://img.shields.io/badge/-Meu currículo digital-%23E4405F?style=flat&logo=SquareEnix&logoColor=white&color=833AB4" style="height:25px"></a>
 <a href="https://instagram.com/felipegabriel.bs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=E22D0E" style="height:25px"></a>
 <a href="https://www.linkedin.com/in/felipe-gabriel-1903/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" style="height:25px" target="_blank"></a> 
 </div>
