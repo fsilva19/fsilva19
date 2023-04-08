@@ -21,6 +21,7 @@
   
 ![React](https://img.shields.io/badge/-React.js-%2320232a.svg?style=flat&logo=react&logoColor=000&labelColor=%2361DAFB&color=%2361DAFB&logoWidth=40)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-%23092E20.svg?style=flat&logo=django&logoColor=White&labelColor=092E20&color=092E20&logoWidth=40)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=%23563D7C&color=%23563D7C&logoWidth=40)&nbsp;
   
 </div>
 
