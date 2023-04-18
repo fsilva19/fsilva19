@@ -54,6 +54,7 @@
     <ul>
       <li><a href="https://github.com/fsilva19/Projeto_Cronometro" target="_blank">Cronômetro e Temporizador</a></li>
       <li><a href="https://github.com/fsilva19/MeuSiteV2" target="_blank">Meu Site Pessoal</a></li>
+      <li><a href="https://github.com/fsilva19/Projeto_Censurador" target="_blank">Censurador de palavras obscenas</a></li>
     </ul>
   <li>C++:</li>
     <ul>
